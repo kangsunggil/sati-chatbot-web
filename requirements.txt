@@ -8,3 +8,4 @@ python-dotenv
 soundfile
 av
 numpy
+google-cloud-texttospeech
