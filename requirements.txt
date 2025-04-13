@@ -2,6 +2,7 @@ streamlit
 streamlit-webrtc
 openai
 langchain
+langchain-community
 python-dotenv
 soundfile
 av
