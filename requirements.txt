@@ -1,0 +1,8 @@
+streamlit
+streamlit-webrtc
+openai
+langchain
+python-dotenv
+soundfile
+av
+numpy
