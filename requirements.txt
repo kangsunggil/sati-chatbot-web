@@ -9,3 +9,4 @@ soundfile
 av
 numpy
 google-cloud-texttospeech
+faiss-cpu
